@@ -1,0 +1,10 @@
+#Task03 - menu.py
+print("Please enter your 3 favourite food items")
+item1 = input("Item 1: ")
+item2 = input("Item 2: ")
+item3 = input("Item 3: ")
+print()
+print("Order Confirmation! You have ordered:")
+print(item1)
+print(item2)
+print(item3)
