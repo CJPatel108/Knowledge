@@ -1,9 +1,11 @@
+#CJ Patel
 #Task4 - details.py
 #------------------------------------------------------------#
-name = input("Please enter your Name: ") #initialising a string variable
-age = input("Please enter your Age: ") #initialising a variable
-house_number = input("Please enter your House Number: ") #initialising a variable
-street_name = input("Please enter your Street Name: ") #initialising a variable
+#request input from user
+name = input("Please enter your name: ")
+age = input("Please enter your age: ")
+house_number = input("Please enter your house number: ")
+street_name = input("Please enter your street name: ")
 
-#printing all variables
-print("This is "+ name + " he is " + age + " years old and lives at house number " + house_number + " on " + street_name)
+#print output
+print("This is " + name + " he is " + age + " and lives at house number " + house_number + " on " + street_name + ".")
