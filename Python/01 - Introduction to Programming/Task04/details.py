@@ -1,4 +1,3 @@
-#CJ Patel
 #Task4 - details.py
 #------------------------------------------------------------#
 #request input from user
