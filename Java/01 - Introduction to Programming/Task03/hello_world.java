@@ -12,5 +12,7 @@ public class hello_world
     System.out.println(age);
 
     System.out.println("Hello World!");
+    keyboardInput.close();
+
   }
 }

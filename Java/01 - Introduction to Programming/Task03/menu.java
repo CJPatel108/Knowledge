@@ -17,5 +17,8 @@ public class menu
     System.out.println(item1);
     System.out.println(item2);
     System.out.println(item3);
+
+    keyboardInput.close();
+
   }
 }
