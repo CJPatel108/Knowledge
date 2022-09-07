@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\bin\Debug\net6.0\details.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\bin\Debug\net6.0\details.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\bin\Debug\net6.0\details.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\bin\Debug\net6.0\details.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\bin\Debug\net6.0\details.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\refint\details.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\details.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\details\obj\Debug\net6.0\ref\details.dll
