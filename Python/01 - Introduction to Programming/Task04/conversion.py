@@ -1,4 +1,3 @@
-#CJ Patel
 #Task4 - conversion.py
 #------------------------------------------------------------#
 #initialising variables

@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\bin\Debug\net6.0\conversion.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\bin\Debug\net6.0\conversion.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\bin\Debug\net6.0\conversion.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\bin\Debug\net6.0\conversion.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\bin\Debug\net6.0\conversion.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\refint\conversion.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\conversion.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task04\conversion\obj\Debug\net6.0\ref\conversion.dll
