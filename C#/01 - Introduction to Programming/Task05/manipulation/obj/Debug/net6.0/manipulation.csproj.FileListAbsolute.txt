@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\bin\Debug\net6.0\manipulation.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\bin\Debug\net6.0\manipulation.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\bin\Debug\net6.0\manipulation.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\bin\Debug\net6.0\manipulation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\bin\Debug\net6.0\manipulation.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\refint\manipulation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\manipulation.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task05\manipulation\obj\Debug\net6.0\ref\manipulation.dll
