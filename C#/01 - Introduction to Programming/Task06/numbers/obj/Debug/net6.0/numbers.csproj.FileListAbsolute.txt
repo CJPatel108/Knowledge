@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\bin\Debug\net6.0\numbers.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\bin\Debug\net6.0\numbers.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\bin\Debug\net6.0\numbers.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\bin\Debug\net6.0\numbers.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\bin\Debug\net6.0\numbers.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\refint\numbers.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\numbers.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task06\numbers\obj\Debug\net6.0\ref\numbers.dll
