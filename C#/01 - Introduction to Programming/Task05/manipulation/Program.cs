@@ -1,9 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 //request input from user
 Console.WriteLine("Please enter a sentence: ");
-string str_manip = "This sentence contains words";
-//string str_manip = Console.ReadLine();
+//string str_manip = "This sentence contains words";
+string str_manip = Console.ReadLine();
 
 //determine and display length of variable str_manip
 int length = str_manip.Length;
