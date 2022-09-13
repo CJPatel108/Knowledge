@@ -33,5 +33,5 @@ if (question == "yes"):
 #display message based off characteristics met
 if (count>=3):
 	print("Your password is suitable")
-#else:
-#  print("Your password is not suitable")
+else:
+ print("Your password is not suitable")
