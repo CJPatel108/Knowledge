@@ -17,12 +17,12 @@ if (question == "yes"):
 
 question = input("Does your password contain an Upper Cased letter? yes/no: ").lower()
 if (question == "yes"):
-	upper_case = True
+	up_case = True
 	count= count+1
 
 question = input("Does your password contain an Lower Cased letter? yes/no: ").lower()
 if (question == "yes"):
-	lower_case = True
+	low_case = True
 	count= count+1	
 
 question = input("Does your password contain numbers? yes/no: ").lower()
