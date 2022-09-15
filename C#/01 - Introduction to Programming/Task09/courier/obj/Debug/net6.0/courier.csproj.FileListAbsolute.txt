@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\bin\Debug\net6.0\courier.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\bin\Debug\net6.0\courier.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\bin\Debug\net6.0\courier.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\bin\Debug\net6.0\courier.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\bin\Debug\net6.0\courier.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\refint\courier.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\courier.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task09\courier\obj\Debug\net6.0\ref\courier.dll
