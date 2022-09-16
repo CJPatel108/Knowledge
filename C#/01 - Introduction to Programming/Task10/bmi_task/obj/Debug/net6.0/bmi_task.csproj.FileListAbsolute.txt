@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\bin\Debug\net6.0\bmi_task.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\bin\Debug\net6.0\bmi_task.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\bin\Debug\net6.0\bmi_task.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\bin\Debug\net6.0\bmi_task.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\bin\Debug\net6.0\bmi_task.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\refint\bmi_task.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\bmi_task.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\bmi_task\obj\Debug\net6.0\ref\bmi_task.dll
