@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\bin\Debug\net6.0\control.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\bin\Debug\net6.0\control.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\bin\Debug\net6.0\control.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\bin\Debug\net6.0\control.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\bin\Debug\net6.0\control.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\refint\control.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\control.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task10\control\obj\Debug\net6.0\ref\control.dll
