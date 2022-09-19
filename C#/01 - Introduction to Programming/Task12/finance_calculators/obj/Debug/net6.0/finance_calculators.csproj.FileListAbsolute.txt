@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\bin\Debug\net6.0\finance_calculators.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\bin\Debug\net6.0\finance_calculators.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\bin\Debug\net6.0\finance_calculators.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\bin\Debug\net6.0\finance_calculators.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\bin\Debug\net6.0\finance_calculators.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\refint\finance_calculators.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\finance_calculators.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task12\finance_calculators\obj\Debug\net6.0\ref\finance_calculators.dll
