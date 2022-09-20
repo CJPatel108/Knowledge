@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\bin\Debug\net6.0\even.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\bin\Debug\net6.0\even.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\bin\Debug\net6.0\even.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\bin\Debug\net6.0\even.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\bin\Debug\net6.0\even.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\refint\even.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\even.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task13\even\obj\Debug\net6.0\ref\even.dll
