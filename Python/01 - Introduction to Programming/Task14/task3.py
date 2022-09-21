@@ -29,7 +29,7 @@ num2 = int(input("Please enter a positive integer for num2: "))
 if (num1>num2):
 	temp = num1
 	num1 = num2
-	num2= num1
+	num2 = temp
 
 #determine gcd
 for m in range (1,num1+1):
