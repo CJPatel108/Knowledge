@@ -1,4 +1,3 @@
-#CJ Patel
 #Task23 - binary.py
 #------------------------------------------------------------#
 #import math library
