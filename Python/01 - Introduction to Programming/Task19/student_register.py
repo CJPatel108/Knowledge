@@ -1,4 +1,3 @@
-#CJ Patel
 #Task19 - student_register.py
 #------------------------------------------------------------#
 #request input from user

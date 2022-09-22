@@ -1,4 +1,3 @@
-#CJ Patel
 #Task22 - counting.py
 #------------------------------------------------------------#
 #initialise variable 'sampleString'

@@ -1,4 +1,3 @@
-#CJ Patel
 #Task21 - loop1000.py
 #------------------------------------------------------------#
 #two lines of code to print out numbers 1 to 1000

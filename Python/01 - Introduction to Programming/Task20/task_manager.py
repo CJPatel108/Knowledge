@@ -1,4 +1,3 @@
-#CJ Patel
 #Task20 - task_manager.py
 #------------------------------------------------------------#
 from datetime import date

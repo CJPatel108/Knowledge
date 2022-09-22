@@ -1,4 +1,3 @@
-#CJ Patel
 #Task17 - disappear.py
 #------------------------------------------------------------#
 #request input from user

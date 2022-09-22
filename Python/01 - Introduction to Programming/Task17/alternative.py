@@ -1,4 +1,3 @@
-#CJ Patel
 #Task17 - alternative.py
 #------------------------------------------------------------#
 #request input from user

@@ -1,4 +1,3 @@
-#CJ Patel
 #Task23 - jokes.py
 #------------------------------------------------------------#
 #import random library

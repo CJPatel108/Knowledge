@@ -1,4 +1,3 @@
-#CJ Patel
 #Task21 - loop_lists.py
 #------------------------------------------------------------#
 #list of 5 favourite movies

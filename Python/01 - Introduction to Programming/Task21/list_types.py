@@ -1,4 +1,3 @@
-#CJ Patel
 #Task21 - list_types.py
 #------------------------------------------------------------#
 #initialise list variable with name of 3 friends

@@ -1,4 +1,3 @@
-#CJ Patel
 #Task24 - holiday.py
 #------------------------------------------------------------#
 #function for cost of hotel per night

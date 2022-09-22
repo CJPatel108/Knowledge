@@ -1,4 +1,3 @@
-#CJ Patel
 #Task21 - John.py
 #------------------------------------------------------------#
 #initialise variable 'name' and empty list variable 'incorrectNames'

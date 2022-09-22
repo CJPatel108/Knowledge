@@ -1,4 +1,3 @@
-#CJ Patel
 #Task24 - my_function.py
 #------------------------------------------------------------#
 #function prints out days of the week

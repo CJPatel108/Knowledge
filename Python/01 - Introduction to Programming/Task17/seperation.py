@@ -1,4 +1,3 @@
-#CJ Patel
 #Task17 - seperation.py
 #------------------------------------------------------------#
 #request input from user

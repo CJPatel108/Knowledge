@@ -1,4 +1,3 @@
-#CJ Patel
 #Task22 - optional_task.py
 #------------------------------------------------------------#
 #dictionary containing 4 abbreviations and their meanings

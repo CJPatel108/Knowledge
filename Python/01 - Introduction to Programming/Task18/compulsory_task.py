@@ -1,4 +1,3 @@
-#CJ Patel
 #Task18 - compulsory_task.py
 #------------------------------------------------------------#
 #instantiate variables for names, surnames and DOBs

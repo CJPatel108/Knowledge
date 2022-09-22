@@ -1,4 +1,3 @@
-#CJ Patel
 #Task19 - combined.py
 #------------------------------------------------------------#
 #initialise variables

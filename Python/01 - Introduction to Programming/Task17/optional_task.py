@@ -1,4 +1,3 @@
-#CJ Patel
 #Task17 - optional_task.py
 #------------------------------------------------------------#
 #request input from user

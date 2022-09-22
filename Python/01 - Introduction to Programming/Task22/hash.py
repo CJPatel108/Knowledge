@@ -1,4 +1,3 @@
-#CJ Patel
 #Task22 - hash.py
 #------------------------------------------------------------#
 #initialise dictonary
