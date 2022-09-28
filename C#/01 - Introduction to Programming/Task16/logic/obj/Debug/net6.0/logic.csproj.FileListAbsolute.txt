@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\bin\Debug\net6.0\logic.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\bin\Debug\net6.0\logic.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\bin\Debug\net6.0\logic.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\bin\Debug\net6.0\logic.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\bin\Debug\net6.0\logic.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\refint\logic.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\logic.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\logic\obj\Debug\net6.0\ref\logic.dll
