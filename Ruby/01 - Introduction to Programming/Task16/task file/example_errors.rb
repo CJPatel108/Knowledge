@@ -9,4 +9,4 @@ age = 21
  
 fullMessage = name + surname + " is " + age.to_s + " years old" #Runtime error - variable age needs to be converted to string; #syntax error - 'is' is under the wrong syntax, needs to be within quotations; #possible logical error - missing appropriate spacing between name and surname;
  
-puts fullMessage #syntax error - missing parenthesis for python3;
+puts fullMessage #syntax error - missing parenthesis;
