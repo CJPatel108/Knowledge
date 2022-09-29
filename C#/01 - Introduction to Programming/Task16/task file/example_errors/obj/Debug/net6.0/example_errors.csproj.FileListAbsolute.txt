@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\bin\Debug\net6.0\example_errors.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\bin\Debug\net6.0\example_errors.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\bin\Debug\net6.0\example_errors.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\bin\Debug\net6.0\example_errors.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\bin\Debug\net6.0\example_errors.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\refint\example_errors.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\example_errors.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task16\task file\example_errors\obj\Debug\net6.0\ref\example_errors.dll
