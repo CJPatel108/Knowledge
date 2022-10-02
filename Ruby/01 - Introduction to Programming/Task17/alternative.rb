@@ -3,14 +3,14 @@
 #request input from user
 print "Please enter a value for a string variable: "
 original = gets.chomp()
-alt = ""
+#alt = ""
 
 # make each alternate character an uppercase character and each other alternate character a lowercase character.
 for i in Range.new(0, original.length)
 	if i%2==0
-		alt += original[i].upcase() #***************************************************
+		alt = alt + original[i].upcase #**************************************************
 	else
-		alt += original[i].downcase() #***************************************************
+		alt = alt + original[i].downcase #************************************************
     end
 end
 
