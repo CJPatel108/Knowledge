@@ -1,0 +1,15 @@
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\bin\Debug\net6.0\separation.exe
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\bin\Debug\net6.0\separation.deps.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\bin\Debug\net6.0\separation.runtimeconfig.json
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\bin\Debug\net6.0\separation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\bin\Debug\net6.0\separation.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.csproj.AssemblyReference.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.AssemblyInfoInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.AssemblyInfo.cs
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\refint\separation.dll
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.pdb
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\separation.genruntimeconfig.cache
+C:\Users\Cj\Documents\Git\C#\01 - Introduction to Programming\Task17\separation\obj\Debug\net6.0\ref\separation.dll
