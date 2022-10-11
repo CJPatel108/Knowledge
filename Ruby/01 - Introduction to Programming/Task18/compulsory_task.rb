@@ -1,10 +1,21 @@
 #Task18 - compulsory_task.rb
 #------------------------------------------------------------#
 filename = "DOB.txt"
-content = File.read(filename);
+content = File.readlines(filename);
+num = content.size
+
+for i in 0..num-1 do
+    contents = content.at(i).split(/ /,1)
+end
+
+puts "Names"
+for i in 0..num-1
+    print 
+end
+
 puts content
-
-
+puts ""
+puts contents
 
 
 
