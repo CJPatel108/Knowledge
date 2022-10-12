@@ -13,9 +13,10 @@ for i in 0..num-1
     print 
 end
 
+puts num
 puts content
 puts ""
-puts contents
+puts contents.at(0)
 
 
 
