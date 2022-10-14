@@ -5,7 +5,7 @@ content = File.readlines(filename);
 num = content.size
 
 for i in 0..num-1 do
-    contents = content.at(i).split(/ /,1)
+    contents.at(i) = content.at(i).split("\n",1)
 end
 
 puts "Names"
