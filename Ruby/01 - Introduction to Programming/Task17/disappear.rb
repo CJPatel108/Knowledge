@@ -12,5 +12,5 @@ disappear = original
 for i in Range.new(0,characters.length)
   disappear = disappear.gsub(characters[i],"")
 end
-    
+      
 puts disappear
