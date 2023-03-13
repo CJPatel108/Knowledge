@@ -1,0 +1,42 @@
+//CJ Patel
+//Task1 - pseudo.txt
+------------------------------------------------------------
+
+initialise variable "letter"
+initialise variable "vowels" to equal zero
+begin while loop
+    request random letter from user
+    store input in variable "letter"
+    if "letter" is 'a','e','i','o' or 'u' //vowel
+        increment "vowels" by 1
+end while loop when input value for "letter" is a number
+output "vowels"
+
+------------------------------------------------------------
+
+initialise variable "num"
+initialise variable "countEven" to equal zero
+initialise variable "totalEven" to equal zero
+initialise variable "countOdd" to equal zero
+initialise variable "totalOdd" to equal zero
+begin while loop
+    request integer from user
+    store input in variable "num"
+    if "num" mod two equals zero
+        increment "countEven" by 1
+        "totalEven" equals "totalEven" plus "num"
+    else
+        increment "countOdd" by 1
+        "totalOdd" equals "totalOdd" plus "num"
+end while loop when input value for "num" is not an integer
+output 'Average of Even Numbers' + ("totalEven"/"countEven") //average = sum of even numbers divide number of even numbers
+output 'Average of Odd Numbers' + ("totalOdd"/"countOdd") //average = sum of odd numbers divide number of odd numbers
+
+------------------------------------------------------------
+
+read "names" list
+use built-in sort method with "names" list
+output "names"
+
+------------------------------------------------------------
+------------------------------------------------------------

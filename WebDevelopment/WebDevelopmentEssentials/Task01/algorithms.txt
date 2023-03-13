@@ -1,0 +1,20 @@
+//CJ Patel
+//Task1 - algorithms.txt
+------------------------------------------------------------
+
+initialise variable "firstName"
+request input from user
+store input in variable "firstName"
+output 'Hello ' + "firstName"
+
+------------------------------------------------------------
+
+initialise variable "age"
+initialise variable "birthYear"
+request input from user
+store input in variable "age"
+birthYear equals 2023 minus "age" //birthYear = currentYear - age
+output 'Based on your age of ' + "age" + ', it looks like you were born in ' + "birthYear" + '.'
+
+------------------------------------------------------------
+------------------------------------------------------------

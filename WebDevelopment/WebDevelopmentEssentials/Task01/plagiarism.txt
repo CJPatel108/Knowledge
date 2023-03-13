@@ -1,0 +1,30 @@
+//CJ Patel
+//Task1 - plagiarism.txt
+------------------------------------------------------------
+
+1) Plagiarism is the act of using someone else's work without acknowledging them properly or seeking permission to use the said work of the person. Plagiarism also includes, and is not limited to, presenting someone else's work as one's own.
+
+------------------------------------------------------------
+
+2) 4 Types of Plagiarism and Examples:
+
+	Direct Plagiarism - writer copies and pastes a section of text from a published article or book into their own work, without citing the original source or using quotation marks to indicate the borrowed material
+
+	Self-Plagiarism - if a researcher reuses significant portions of their own previously published article in a new research paper without acknowledging the earlier work. This could involve copying and pasting entire paragraphs or sections from the earlier article into the new one without any significant changes.
+
+	Mosaic Plagiarism - if a student takes a few sentences from an article and changes a few words here and there, but the overall sentence structure and meaning remains the same
+
+	Accidental Plagiarism - if a student is conducting research and takes notes from several different sources, but forgets to record where certain pieces of information came from. Later on, when writing their paper, the student inadvertently includes some of these ideas or information without realizing that they did not originate with them
+	
+------------------------------------------------------------
+
+3) To avoid plagiarism, the easiest and most straightforward approach is to always acknowledge the original source when using someone else's work or ideas in your own work.
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+
+
+References:
+
+Additional Reading - Plagiarism Policy.pdf (2021) provided by HyperionDev
